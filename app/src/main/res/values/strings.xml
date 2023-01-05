@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SixthTaskAston</string>
+    <string name="button_save_contact">Сохранить</string>
+    <string name="ed_name_hint">Имя</string>
+    <string name="ed_surname_hint">Фамилия</string>
+    <string name="ed_phone_hint">Номер</string>
+    <string name="details">Детали контакта</string>
+    <string name="delete">Удалить контакт</string>
+    <string name="title_list_toolbar">Список</string>
+    <string name="title_details_toolbar">Детали</string>
+    <string name="action_search">Поиск</string>
+    <string-array name="names">
+        <item>Михаил</item>
+        <item>Петр</item>
+        <item>Иосиф</item>
+        <item>Василий</item>
+        <item>Виталий</item>
+        <item>Дмитрий</item>
+        <item>Даниил</item>
+        <item>Костя</item>
+        <item>Влад</item>
+        <item>Павел</item>
+        <item>Юра</item>
+    </string-array>
+
+    <string-array name="surnames">
+        <item>Прокофьев</item>
+        <item>Немчинов</item>
+        <item>Адонин</item>
+        <item>Коробов</item>
+        <item>Медведев</item>
+        <item>Уткин</item>
+        <item>Бобриков</item>
+        <item>Тарасов</item>
+        <item>Сигмов</item>
+        <item>Уткин</item>
+        <item>О\'Нил</item>
+    </string-array>
+</resources>
